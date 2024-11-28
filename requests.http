@@ -1,0 +1,10 @@
+### Produção hehe boi
+POST https://jfv4b7mrxc.execute-api.us-east-2.amazonaws.com/create
+Content-Type: application/json
+
+{
+  "originalUrl": "https://www.youtube.com",
+  "expirationTime": "99999999999"
+}
+
+# cd98ac24
